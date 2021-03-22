@@ -1,6 +1,6 @@
 # Car Cluster HMI
 
-![alt text](https://github.com/afondiel/car-cluster-hmi/blob/master/dashboards_new_.png?raw=true
+![alt text](https://github.com/afondiel/car-cluster-hmi/blob/master/demo/dashboards_new_.png?raw=true
 
 Digital instrument clusters project inspired from modern and sport cars also smart cockpits based on Qt application and C++/python.
 
