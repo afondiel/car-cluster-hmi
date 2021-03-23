@@ -2,11 +2,7 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>main.cpp</file>
-    </qresource>
-    <qresource prefix="/images">
-        <file>background.png</file>
-        <file>pinwheel.png</file>
-        <file>pole.PNG</file>
-        <file>pinwheel1.png</file>
+        <file>Demo.qml</file>
+        <file>DemoForm.ui.qml</file>
     </qresource>
 </RCC>

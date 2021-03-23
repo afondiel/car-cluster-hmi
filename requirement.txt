@@ -1,3 +1,3 @@
 Qt5.12.*
-C++ commpiler
+C++11 commpiler
 Python3
