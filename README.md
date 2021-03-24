@@ -4,6 +4,7 @@
 
 Digital instrument clusters project inspired from modern and sport cars also smart cockpits based on Qt application and C++/python.
 - UI design based on Qt Design Studio
+- UI animation using QML plus javascript
 - sw dev in C++/python according to interface required by the user
 
 # Requirements tools :
