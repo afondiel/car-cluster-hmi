@@ -8,5 +8,6 @@
         <file>BackgroundForm.ui.qml</file>
         <file>Circle.qml</file>
         <file>CircleForm.ui.qml</file>
+        <file>receiver.qml</file>
     </qresource>
 </RCC>
