@@ -1,13 +1,13 @@
 <RCC>
     <qresource prefix="/">
-        <file>main.qml</file>
-        <file>main.cpp</file>
         <file>Demo.qml</file>
         <file>DemoForm.ui.qml</file>
         <file>Background.qml</file>
         <file>BackgroundForm.ui.qml</file>
         <file>Circle.qml</file>
         <file>CircleForm.ui.qml</file>
-        <file>receiver.qml</file>
+        <file>Receiver.qml</file>
+        <file>main.qml</file>
+        <file>Sender.qml</file>
     </qresource>
 </RCC>
