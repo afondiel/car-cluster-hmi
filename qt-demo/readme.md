@@ -17,6 +17,6 @@ The Only C++ code is the main.cpp file which is used to load the main.qml file
 
 # Usage :
 
-After all requirement tools covered open the [demo-cluster.pro](https://github.com/afondiel/car-cluster-hmi/blob/master/demo/demo-cluster.pro) file from Qt application and you free to go ! 
+After all requirement tools covered open the [demo-cluster.pro](https://github.com/afondiel/car-cluster-hmi/blob/master/qt-demo/demo-cluster.pro) file from Qt application and you free to go ! 
 
 
