@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtAutomotiveClusterDemo", "QtAutomotiveClusterDemo\QtAutomotiveClusterDemo.vcproj", "{AAB00E04-2688-4C23-B0CA-0E798FBDB41D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|SDK2wince7 (ARMv4I) = Debug|SDK2wince7 (ARMv4I)
+		Release|SDK2wince7 (ARMv4I) = Release|SDK2wince7 (ARMv4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB00E04-2688-4C23-B0CA-0E798FBDB41D}.Debug|SDK2wince7 (ARMv4I).ActiveCfg = Debug|SDK2wince7 (ARMv4I)
+		{AAB00E04-2688-4C23-B0CA-0E798FBDB41D}.Debug|SDK2wince7 (ARMv4I).Build.0 = Debug|SDK2wince7 (ARMv4I)
+		{AAB00E04-2688-4C23-B0CA-0E798FBDB41D}.Debug|SDK2wince7 (ARMv4I).Deploy.0 = Debug|SDK2wince7 (ARMv4I)
+		{AAB00E04-2688-4C23-B0CA-0E798FBDB41D}.Release|SDK2wince7 (ARMv4I).ActiveCfg = Release|SDK2wince7 (ARMv4I)
+		{AAB00E04-2688-4C23-B0CA-0E798FBDB41D}.Release|SDK2wince7 (ARMv4I).Build.0 = Release|SDK2wince7 (ARMv4I)
+		{AAB00E04-2688-4C23-B0CA-0E798FBDB41D}.Release|SDK2wince7 (ARMv4I).Deploy.0 = Release|SDK2wince7 (ARMv4I)
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

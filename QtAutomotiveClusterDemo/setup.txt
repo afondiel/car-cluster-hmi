@@ -1,0 +1,4 @@
+
+# setup 
+
+https://developer.toradex.com/knowledge-base/how-to-use-automotive-cluster-example-on-linux#automotive-cluster-display-demo

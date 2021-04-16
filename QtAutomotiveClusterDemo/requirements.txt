@@ -1,0 +1,2 @@
+Qt 4.8.4
+SDK2wince7 (ARMv4I)
